@@ -2,7 +2,7 @@
 
 [Portfolio](https://sportiner.com/artinmehri) · [LinkedIn](https://www.linkedin.com/in/artinmehri/) · [Email](mailto:artin@sportiner.com)
 
-Based in Toronto. I built Sportiner, a tennis matchmaking app, and help organize [LarpHacks](https://larphacks.ca).
+Based in Toronto. I built Sportiner, a tennis matchmaking app, and hosted [LarpHacks](https://larphacks.ca).
 
 ## Stack
 
